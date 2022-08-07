@@ -5,3 +5,4 @@ Repositório para os desafios propostos no Santander Bootcamp fullstack develope
 
 ## Links úteis
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
